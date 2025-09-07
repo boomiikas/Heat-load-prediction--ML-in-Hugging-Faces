@@ -1,10 +1,13 @@
 # Heating Load Prediction 🔥
 
-This project is deployed on Hugging Face Spaces using **Gradio**.  
-You can try the app here: [Heating Load Prediction](https://huggingface.co/spaces/boomiikas/Heating-Load-Prediction)
-Note: To access the web app, use the following credentials:
-Username: admin
-Password: 1234 
+This project is deployed on **Hugging Face Spaces** using **Gradio**.  
+
+You can try the app here 👉 [Heating Load Prediction](https://huggingface.co/spaces/boomiikas/Heating-Load-Prediction)  
+
+> **Note:** To access the web app, use the following credentials:  
+> - **Username:** `admin`  
+> - **Password:** `1234`  
+
 ---
 
 ## 🚀 App Screenshot
